@@ -137,7 +137,7 @@ opacity: 1;
 .bg-grad.one{
 -webkit-transition: opacity 5s linear;
 transition: opacity 5s linear;
-background-image: url('https://github.com/gingerFoxxx/pics/blob/master/18707.jpg?raw=true');
+background-image: url('//master/18707.jpg?raw=true');
 background-position: absolute;
 background-size: cover
 }
@@ -145,14 +145,14 @@ background-size: cover
 .bg-grad.two{
 -webkit-transition: opacity 5s linear;
 transition: opacity 5s linear;
-background-image: url('https://github.com/gingerFoxxx/pics/blob/master/18697.jpg?raw=true');
+background-image: url('//master/18697.jpg?raw=true');
 background-position: absolute;
 background-size: cover
 }
 .bg-grad.three{
 -webkit-transition: opacity 5s linear;
 transition: opacity 5s linear;
-background-image: url('https://github.com/gingerFoxxx/pics/blob/master/12199.jpg?raw=true');
+background-image: url('//master/12199.jpg?raw=true');
 background-position: absolute;
 background-size: cover
 }
